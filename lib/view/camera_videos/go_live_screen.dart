@@ -63,7 +63,7 @@ class _GoLiveScreenState extends State<GoLiveScreen> {
                                 ),
                                 SizedBox(height: 2.h),
                                 Text(
-                                  "Our goal is to provide the best LiveStream experience. ",
+                                  "Our goal is to provide the best LiveStream experience. Agree to all before you host:",
                                   style: TextStyle(
                                     color: Colors.black,
                                     fontSize: 14.px,
