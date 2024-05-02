@@ -7,8 +7,7 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:iarab/view/home_screen/wallet_screen/recharge_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
-import '../../../utils/color/custom_color.dart';
-
+import '../../../controller/utils/color/custom_color.dart';
 class WalletScreen extends StatelessWidget {
   const WalletScreen({Key? key}) : super(key: key);
 

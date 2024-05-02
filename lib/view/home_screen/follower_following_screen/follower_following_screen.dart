@@ -4,7 +4,8 @@ import 'package:iarab/view/home_screen/follower_following_screen/follower_screen
 import 'package:iarab/view/home_screen/follower_following_screen/following_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
-import '../../../utils/color/custom_color.dart';
+import '../../../controller/utils/color/custom_color.dart';
+
 
 class FollowerFollowingScreen extends StatefulWidget {
   const FollowerFollowingScreen({Key? key}) : super(key: key);

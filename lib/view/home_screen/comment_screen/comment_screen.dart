@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
-import '../../../utils/color/custom_color.dart';
+import '../../../controller/utils/color/custom_color.dart';
+
 
 void showCommentBottomSheet(BuildContext context, Function(List<Map<String, String>>) setStateCallback) {
   final formKey = GlobalKey<FormState>();

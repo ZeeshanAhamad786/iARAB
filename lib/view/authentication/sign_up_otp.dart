@@ -2,11 +2,10 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:iarab/view/authentication/sign_in_screen.dart';
 import 'package:iarab/view/bottom_navigation_screen/bottom_navigation_screen.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import '../../utils/color/custom_color.dart';
+import '../../controller/utils/color/custom_color.dart';
 import '../../widget/custom_main_button.dart';
 class SignUpOtp extends StatefulWidget {
   const SignUpOtp({Key? key}) : super(key: key);

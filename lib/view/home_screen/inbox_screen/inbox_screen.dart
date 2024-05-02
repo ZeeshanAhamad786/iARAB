@@ -4,7 +4,8 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:iarab/view/home_screen/inbox_screen/chat_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
-import '../../../utils/color/custom_color.dart';
+import '../../../controller/utils/color/custom_color.dart';
+
 
 class InboxScreen extends StatefulWidget {
   const InboxScreen({Key? key}) : super(key: key);

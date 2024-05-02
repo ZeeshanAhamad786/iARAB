@@ -8,7 +8,7 @@ import 'package:iarab/view/home_screen/setting_screen/privacy_policy.dart';
 import 'package:iarab/view/home_screen/setting_screen/terms_and_condition.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
-import '../../../utils/color/custom_color.dart';
+import '../../../controller/utils/color/custom_color.dart';
 import '../../../widget/custom_setting.dart';
 
 class SettingScreen extends StatefulWidget {

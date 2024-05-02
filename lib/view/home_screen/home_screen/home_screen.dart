@@ -3,13 +3,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
-import 'package:iarab/utils/color/custom_color.dart';
 import 'package:iarab/view/camera_videos/user_live_video.dart';
 import 'package:iarab/view/home_screen/comment_screen/comment_screen.dart';
 import 'package:iarab/view/home_screen/home_screen/search_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
 import '../../../controller/image_picker/image_picker.dart';
+import '../../../controller/utils/color/custom_color.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

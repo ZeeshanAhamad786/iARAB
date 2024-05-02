@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:iarab/utils/color/custom_color.dart';
 import 'package:iarab/view/authentication/sign_in_screen.dart';
 import 'package:iarab/view/authentication/sign_up_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
+import '../../controller/utils/color/custom_color.dart';
 import '../../widget/custom_main_button.dart';
 import '../camera_videos/user_live_video.dart';
 

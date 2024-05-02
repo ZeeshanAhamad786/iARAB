@@ -6,7 +6,7 @@ import 'package:iarab/view/authentication/create_password_screen.dart';
 import 'package:iarab/view/authentication/sign_in_screen.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import '../../utils/color/custom_color.dart';
+import '../../controller/utils/color/custom_color.dart';
 import '../../widget/custom_main_button.dart';
 class EnterCodeScreen extends StatefulWidget {
   const EnterCodeScreen({Key? key}) : super(key: key);

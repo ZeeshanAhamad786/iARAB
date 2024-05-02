@@ -6,7 +6,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import '../../utils/color/custom_color.dart';
+import '../../controller/utils/color/custom_color.dart';
 import '../bottom_navigation_screen/bottom_navigation_screen.dart';
 class PostScreen extends StatefulWidget {
   const PostScreen({Key? key}) : super(key: key);

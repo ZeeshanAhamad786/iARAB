@@ -8,7 +8,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import '../../../utils/color/custom_color.dart';
+import '../../../controller/utils/color/custom_color.dart';
 
 class RechargeScreen extends StatefulWidget {
   RechargeScreen({Key? key}) : super(key: key);

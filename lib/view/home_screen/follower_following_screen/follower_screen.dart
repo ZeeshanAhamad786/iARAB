@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
-import '../../../utils/color/custom_color.dart';
+import '../../../controller/utils/color/custom_color.dart';
+
 
 class FollowerScreen extends StatefulWidget {
   FollowerScreen({Key? key}) : super(key: key);

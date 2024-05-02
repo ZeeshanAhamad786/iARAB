@@ -2,11 +2,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
-import 'package:iarab/utils/constant/constant.dart';
 import 'package:iarab/view/authentication/get_started_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import '../../utils/color/custom_color.dart';
+import '../../controller/utils/color/custom_color.dart';
+import '../../controller/utils/constant/constant.dart';
 import '../../widget/custom_main_button.dart';
 
 class OnBoadingScreen1 extends StatefulWidget {

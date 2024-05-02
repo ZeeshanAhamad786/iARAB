@@ -5,7 +5,6 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:iarab/view/home_screen/follower_following_screen/follower_following_screen.dart';
-import 'package:iarab/view/home_screen/follower_following_screen/follower_screen.dart';
 import 'package:iarab/view/home_screen/profile_screen/edit_profile_screen.dart';
 import 'package:iarab/view/home_screen/profile_screen/like_post_screen.dart';
 import 'package:iarab/view/home_screen/profile_screen/saved_post_screen.dart';
@@ -13,7 +12,7 @@ import 'package:iarab/view/home_screen/setting_screen/setting_screen.dart';
 import 'package:iarab/view/home_screen/wallet_screen/wallet_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
-import '../../../utils/color/custom_color.dart';
+import '../../../controller/utils/color/custom_color.dart';
 
 import 'all_post_screen.dart';
 

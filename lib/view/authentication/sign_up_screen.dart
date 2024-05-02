@@ -3,13 +3,13 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:iarab/utils/color/custom_color.dart';
-import 'package:iarab/view/authentication/enter-code.dart';
 import 'package:iarab/view/authentication/sign_in_screen.dart';
 import 'package:iarab/view/authentication/sign_up_otp.dart';
 import 'package:iarab/widget/custom_main_button.dart';
 import 'package:iarab/widget/custom_textformfield.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
+
+import '../../controller/utils/color/custom_color.dart';
 
 class SignUpScreen extends StatelessWidget {
   const SignUpScreen({Key? key}) : super(key: key);

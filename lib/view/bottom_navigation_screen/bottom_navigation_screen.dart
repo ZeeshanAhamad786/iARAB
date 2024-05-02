@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:iarab/utils/color/custom_color.dart';
 import 'package:iarab/view/home_screen/home_screen/home_screen.dart';
 import 'package:iarab/view/home_screen/inbox_screen/inbox_screen.dart';
 import 'package:iarab/view/home_screen/notification_screen/notification_screen.dart';
@@ -11,6 +10,7 @@ import 'package:iarab/view/home_screen/profile_screen/profile_screen.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
 import '../../controller/image_picker/image_picker.dart';
+import '../../controller/utils/color/custom_color.dart';
 import '../camera_videos/camera.dart';
 
 class BottomNavigationBarS extends StatefulWidget {
